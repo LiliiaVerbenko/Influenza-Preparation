@@ -47,24 +47,24 @@ If a state has a higher proportion of persons aged 65 and up, then such a state 
 
 I used statistical analysis to explore the relationships between variables and identified a weak positive correlation between the number of deaths and the population older than 65. This suggests that a slight increase in the proportion of individuals aged 65 and above is associated with a mild rise in the death ratio.
 
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%201.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%201.jpg" width="300">
 
 
 ### Which age groups are most affected by influenza?
 
 I created this bar chart to identify demographic groups most at risk, and it was discovered that vulnerable population refers to groups of individuals under 5 years old and over 65 years old.
 
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%202.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%202.jpg" width="300">
 
 ### Which states have the highest number of vulnerable populations?
 
 I have discovered that the states in the East have a higher death rate, and the density of the population significantly influences the death count.
 
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%203.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%203.jpg" width="300">
 
 ### What does the future bring?
 
-<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%204.jpg" width="400">
+<img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%204.jpg" width="300">
 
 ## Results
 

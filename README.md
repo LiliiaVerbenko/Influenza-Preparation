@@ -54,19 +54,19 @@ I used statistical analysis to explore the relationships between variables and i
 <img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%201.png" width="300">
 
 
-### Which age groups are most affected by influenza?
+**_Which age groups are most affected by influenza?_**
 
 I created this bar chart to identify demographic groups most at risk, and it was discovered that vulnerable population refers to groups of individuals under 5 years old and over 65 years old.
 
 <img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%202.png" width="300">
 
-### Which states have the highest number of vulnerable populations?
+**_Which states have the highest number of vulnerable populations?_**
 
 I have discovered that the states in the East have a higher death rate, and the density of the population significantly influences the death count.
 
 <img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%203.png" width="300">
 
-### What does the future bring?
+**_What does the future bring?_**
 
 <img src="https://github.com/LiliiaVerbenko/Influenza-Preparation/blob/main/image/Influenza%204.png" width="300">
 

@@ -23,7 +23,6 @@ leading to increased hospitalizations.*
 2. [Final Report](https://drive.google.com/file/d/1IamjG-4XgkKnWt4g9Pt2TvMwOmGznwvH/view?usp=share_link)
 3. [Tableau Project](https://public.tableau.com/app/profile/liliia.verbenko/viz/ProjectPreparingforInfluenzaSeasoninUSA/ProjectPreparingforInfluenzaSeasoninUSA?publish=yes)
 4. [Video Presentation](https://screenpal.com/watch/c0it0kVkZOy)
-5. [Project Brief](https://drive.google.com/file/d/1uwZUbzygOUEJpoJmO1JTU_JYU4znL6JJ/view?usp=share_link)
 
 ## Problem
 
